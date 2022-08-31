@@ -1,0 +1,1 @@
+python3 val_character.py --type val --batch_size 10 --model best_model_new_lstm_0.3.pth --hidden_size 128 --model_type 6 --find the that her to as than from we with which have his him not in is all do was and a of an on be he she it if , . they ! - for his had --words True
